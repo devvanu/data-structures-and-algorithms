@@ -47,11 +47,20 @@
 		*	
 </pre>
 
-**Pattern-6 :** [See Soution here](#)
+**Pattern-6 :** [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-6.java)
 <pre>
 *	*	*		*	*	*	
 *	*				*	*	
 *						*	
 *	*				*	*	
 *	*	*		*	*	*	
+</pre>
+
+**Pattern-7 :** [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-7.java)
+<pre>
+*	
+	*	
+		*	
+			*	
+				*		
 </pre>
