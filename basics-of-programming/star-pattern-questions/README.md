@@ -17,3 +17,41 @@
 *	*	
 *
 </pre>
+
+**Pattern-3 :** [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-3.java)
+<pre>
+				*	
+			*	*	
+		*	*	*	
+	*	*	*	*	
+*	*	*	*	*	
+</pre>
+
+**Pattern-4 :** [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-4.java)
+<pre>
+*	*	*	*	*	
+	*	*	*	*	
+		*	*	*	
+			*	*	
+				*
+</pre>
+
+**Pattern-5 :**   
+[See Soution-1 here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-5.java)  
+[See Soution-2 here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-5-sol2.java) (done with single loop)  
+<pre>
+		*	
+	*	*	*	
+*	*	*	*	*	
+	*	*	*	
+		*	
+</pre>
+
+**Pattern-6 :** [See Soution here](#)
+<pre>
+*	*	*		*	*	*	
+*	*				*	*	
+*						*	
+*	*				*	*	
+*	*	*		*	*	*	
+</pre>
