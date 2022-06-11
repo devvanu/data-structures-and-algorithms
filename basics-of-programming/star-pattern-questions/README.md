@@ -64,3 +64,21 @@
 			*	
 				*		
 </pre>
+
+**Pattern-8 :** [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-8.java)
+<pre>
+				*	
+			*		
+		*			
+	*				
+*
+</pre>
+
+**Pattern-9 :** [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-9.java)
+<pre>
+*				*	
+	*		*		
+		*			
+	*		*		
+*				*	
+</pre>
