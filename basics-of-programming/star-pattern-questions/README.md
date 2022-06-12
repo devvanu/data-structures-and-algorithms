@@ -82,3 +82,12 @@
 	*		*		
 *				*	
 </pre>
+
+**Pattern-10 :** [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-10.java)
+<pre>
+		*	
+	*		*	
+*				*	
+	*		*	
+		*	
+</pre>
