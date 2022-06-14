@@ -13,14 +13,17 @@
 | 9 | [Inverse of a Number](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/inverse-of-a-number/README.md) | [Solution](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/inverse-of-a-number/inverse-of-a-number.java) | Easy |
 | 10 | [Rotate a Number](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/rotate-a-number/README.md) | [Solution](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/rotate-a-number/rotate-a-number.java) | Easy |
 | 11 | [GCD and LCM](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/gcd-and-lcm/README.md) | [Solution](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/gcd-and-lcm/gcd-and-lcm.java) | Easy |
-| 12 | [Digit Frequency](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/digit-frequency/README.md) | [Solution](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/digit-frequency/digit-frequency.java) | Easy |
+| 12 | [Prime Factorization Of A Number](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/prime-factorization/README.md) | [Solution](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/prime-factorization/prime-factorization.java) | Easy |
+| 13 | [Pythagorean Triplet](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/pythagorean-triplet/README.md) | [Solution](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/pythagorean-triplet/pythagorean-triplet.java) | Easy |
+| 14 | [The Curious Case Of Benjamin Bulbs](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/curious-case-of-benjamin-bulbs/README.md) | [Solution](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/curious-case-of-benjamin-bulbs/curious-case-of-benjamin-bulbs.java) | Easy |
+| 15 | [Digit Frequency](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/digit-frequency/README.md) | [Solution](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/digit-frequency/digit-frequency.java) | Easy |
 
 ## #2 Patterns Questions :
 
 |  S.No. | Questions | Difficulty |
 | :---: |  --------  |  --------  |
 | 1 | [Star Pattern Ques with their Soln](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/README.md) | Easy |
-| 2 | [Number Pattern Ques with their Soln](#) | Easy |
+| 2 | [Number Pattern Ques with their Soln](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/number-pattern-questions/README.md) | Easy |
 
 ## #3 Number Systems Questions :
 
