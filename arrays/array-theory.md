@@ -27,13 +27,13 @@ for(int i=0; i<marks.length; i++){
 
 1. **Performance**: 
     <br />  
-    <img src="https://github.com/devvanu/hosted-assets/blob/main/general/performance.jpg" width="600" height="" alt="performance" />
+    <img src="https://raw.githubusercontent.com/devvanu/hosted-assets/main/general/performance.jpg" width="600" height="" alt="performance" />
     
     - Both will take the same time because in both cases we know the exact memory location. 
     
 2. **Assignment**:
     <br />   
-    <img src="https://github.com/devvanu/hosted-assets/blob/main/general/assignment.jpg" width="600" height="" alt="assignment" />
+    <img src="https://raw.githubusercontent.com/devvanu/hosted-assets/main/general/assignment.jpg" width="600" height="" alt="assignment" />
     
     - Heap will only allocate new memory space only if you use the new keyword.
     - Otherwise, a simple shallow copy will take place.
@@ -42,7 +42,7 @@ for(int i=0; i<marks.length; i++){
     - When we pass arrays as a parameter to a function only shallow copy takes place. 
     - And if any changes occur inside the function then the changes will be reflected everywhere. 
     <br />
-     <img src="https://github.com/devvanu/hosted-assets/blob/main/general/functions.jpg" width="600" height="" alt="functions" target="none" />
+     <img src="https://raw.githubusercontent.com/devvanu/hosted-assets/main/general/functions.jpg" width="600" height="" alt="functions" target="none" />
 
 ### #4 Advantages
 - **Random access**: we can get any data located at an index position
