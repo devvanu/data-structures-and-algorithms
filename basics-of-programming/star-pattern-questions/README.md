@@ -91,3 +91,12 @@
 	*		*	
 		*	
 </pre>
+
+**Pattern-11 :** [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-11.java)
+<pre>
+		*	
+		*	*	
+*	*	*	*	*	
+		*	*	
+		*	
+</pre>
