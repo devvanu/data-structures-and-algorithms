@@ -36,7 +36,7 @@
 				*
 </pre>
 
-**Pattern-5 :**   
+**Pattern-5** (n should be odd) :   
 [See Soution-1 here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-5.java)  
 [See Soution-2 here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-5-sol2.java) (done with single loop)  
 <pre>
@@ -47,7 +47,7 @@
 		*	
 </pre>
 
-**Pattern-6 :** [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-6.java)
+**Pattern-6** (n should be odd) : [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-6.java)
 <pre>
 *	*	*		*	*	*	
 *	*				*	*	
@@ -74,7 +74,7 @@
 *
 </pre>
 
-**Pattern-9 :** [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-9.java)
+**Pattern-9** (n should be odd) : [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-9.java)
 <pre>
 *				*	
 	*		*		
@@ -83,7 +83,7 @@
 *				*	
 </pre>
 
-**Pattern-10 :** [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-10.java)
+**Pattern-10** (n should be odd) : [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-10.java)
 <pre>
 		*	
 	*		*	
@@ -92,11 +92,22 @@
 		*	
 </pre>
 
-**Pattern-11 :** [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-11.java)
+**Pattern-11** (n should be odd) : [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-11.java)
 <pre>
 		*	
 		*	*	
 *	*	*	*	*	
 		*	*	
 		*	
+</pre>
+
+**Pattern-12** (n should be odd) :  [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-12.java) 
+<pre>
+*	*	*	*	*	*	*	
+	*				*	
+		*		*	
+			*	
+		*	*	*	
+	*	*	*	*	*	
+*	*	*	*	*	*	*	
 </pre>
