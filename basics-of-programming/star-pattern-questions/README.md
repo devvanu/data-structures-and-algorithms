@@ -122,3 +122,12 @@
 *			*	
 *			*	*	*	*
 </pre>
+
+**Pattern-14** (n should be odd) :  [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-14.java) 
+<pre>
+*				*	
+*				*	
+*		*		*	
+*	*		*	*	
+*				*	
+</pre>
