@@ -111,3 +111,14 @@
 	*	*	*	*	*	
 *	*	*	*	*	*	*	
 </pre>
+
+**Pattern-13** (n should be odd) :  [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/star-pattern-questions/pattern-13.java) 
+<pre>
+*	*	*	*			*
+			*			*
+			*			*
+*	*	*	*	*	*	*
+*			*		
+*			*	
+*			*	*	*	*
+</pre>
