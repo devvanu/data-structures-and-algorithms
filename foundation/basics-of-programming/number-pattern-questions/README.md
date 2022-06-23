@@ -1,6 +1,6 @@
 ## Number Pattern Questions
 
-**Pattern-1 :** [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/number-pattern-questions/pattern-1.java)
+**Pattern-1 :** [See Soution here](pattern-1.java)
 <pre>
 1	
 2	3	
@@ -9,7 +9,7 @@
 11	12	13	14	15
 </pre>
 
-**Pattern-2 :** [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/number-pattern-questions/pattern-2.java)
+**Pattern-2 :** [See Soution here](pattern-2.java)
 <pre>
 0	
 1	1	
@@ -18,7 +18,7 @@
 55	89	144	233	377	
 </pre>
 
-**Pattern-3 :** [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/number-pattern-questions/pattern-3.java)
+**Pattern-3 :** [See Soution here](pattern-3.java)
 <pre>
 1	
 1	1	
@@ -27,7 +27,7 @@
 1	4	6	4	1	
 </pre>
 
-**Pattern-4 :** [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/number-pattern-questions/pattern-4.java)
+**Pattern-4 :** [See Soution here](pattern-4.java)
 <pre>
 3 * 1 = 3
 3 * 2 = 6
@@ -41,7 +41,7 @@
 3 * 10 = 30
 </pre>
 
-**Pattern-5 :** [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/number-pattern-questions/pattern-5.java)
+**Pattern-5 :** [See Soution here](pattern-5.java)
 <pre>
 		1	
 	2	3	2	
@@ -50,7 +50,7 @@
 		1	
 </pre>
 
-**Pattern-6 :** [See Soution here](https://github.com/devvanu/data-structures-and-algorithms/blob/main/basics-of-programming/number-pattern-questions/pattern-6.java)
+**Pattern-6 :** [See Soution here](pattern-6.java)
 <pre>
 1								1	
 1	2						2	1	
