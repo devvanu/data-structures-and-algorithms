@@ -1,5 +1,5 @@
 ## Array Theory :
-- *Want to revise Arrays?* then can go through this **readme file** written by me- 🔗 [Java Arrays Theory](https://github.com/devvanu/data-structures-and-algorithms/blob/main/arrays/array-theory.md)
+- *Wanna revise Arrays?* then can go through this **readme file**- 🔗 [Java Arrays Theory](array-theory.md)
 
 ## Arrays Questions :
 
