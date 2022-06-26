@@ -26,7 +26,13 @@
 | 2 | [Number Pattern Ques with their Soln](number-pattern-questions/README.md) | Easy |
 
 ## #3 Number Systems Questions :
+- *Wanna revise Number System Conversion theory?*- then go through this **readme file**- 🔗 [Conversion Theory](conversion-theory.md )
 
 |  S.No. | Questions | Solutions | Difficulty |
 | :---: |  -------- |  -------- |  --------  |
 | 1 | Decimal to Any Base | Solution | Easy |
+| 2 | Any Base to Decimal | Solution | Easy |
+| 3 | Any Base to Any Base | Solution | Easy |
+| 4 | Any Base Addition | Solution | Easy |
+| 5 | Any Base Subtraction | Solution | Easy |
+| 6 | Any Base Multiplication | Solution | Easy |
