@@ -26,13 +26,13 @@
 | 2 | [Number Pattern Ques with their Soln](number-pattern-questions/README.md) | Easy |
 
 ## #3 Number Systems Questions :
-- *Wanna revise Number System Conversion theory?*- then go through this **readme file**- 🔗 [Conversion Theory](conversion-theory.md )
+- *Wanna revise Number System Conversion theory?*- then go through this **readme file**- 🔗 [Conversion Theory](number-systems/conversion-theory.md )
 
 |  S.No. | Questions | Solutions | Difficulty |
 | :---: |  -------- |  -------- |  --------  |
-| 1 | Decimal to Any Base | Solution | Easy |
-| 2 | Any Base to Decimal | Solution | Easy |
-| 3 | Any Base to Any Base | Solution | Easy |
-| 4 | Any Base Addition | Solution | Easy |
-| 5 | Any Base Subtraction | Solution | Easy |
-| 6 | Any Base Multiplication | Solution | Easy |
+| 1 | [Decimal to Any Base](number-systems/decimal-to-any-base/README.md) | [Solution](number-systems/decimal-to-any-base/decimal-to-any-base.java) | Easy |
+| 2 | [Any Base to Decimal](number-systems/any-base-to-decimal/README.md) | [Solution](number-systems/any-base-to-decimal/any-base-to-decimal.java) | Easy |
+| 3 | [Any Base to Any Base](number-systems/any-base-to-any-base/README.md) | [Solution](number-systems/any-base-to-any-base/any-base-to-any-base.java) | Easy |
+| 4 | [Any Base Addition](number-systems/any-base-addition/README.md) | [Solution-1](number-systems/any-base-addition/any-base-addition.java) <br /> [Solution-2](number-systems/any-base-addition/any-base-addition2.java) | Easy |
+| 5 | [Any Base Subtraction](number-systems/any-base-subtraction/README.md) | [Solution](number-systems/any-base-subtraction/any-base-subtraction.java) | Easy |
+| 6 | [Any Base Multiplication](number-systems/any-base-multiplication/README.md) | [Solution](number-systems/any-base-multiplication/any-base-multiplication.java) | Easy |
