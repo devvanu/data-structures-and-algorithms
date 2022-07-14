@@ -1,0 +1,23 @@
+## General Tips:
+
+- if input **array is sorted** then --
+  - Two pointers
+  - Sliding window
+  - Binary search
+- if given a **tree** then --
+  - DFS
+  - BFS
+- if given a **linked list** then --
+  - Offset pointers
+  - Fast & Slow pointers
+- if **recursion is banned** then --
+  - Stack
+- if must solve **in-place** then --
+  - Swap corresponding values
+  - Store one or more difficult values in the same pointer
+- if asked for common **strings** then --
+  - Map
+  - Trie
+- else then --
+  - Map/Set for O(1) time & O(n) space
+  - Sort input for O(nlogn) time and O(1) space
