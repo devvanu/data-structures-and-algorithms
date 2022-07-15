@@ -1,6 +1,6 @@
 ## Search In A Sorted 2d Array
 
-### Easy
+### Medium
 ***
 
 1. You are given a number n, representing the number of rows and columns of a square matrix.
