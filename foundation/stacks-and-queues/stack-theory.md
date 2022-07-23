@@ -1,61 +1,83 @@
-# Stack in Java
+# Stack in JavaScript
+- Stack is a linear data structure (where data elements are arranged sequentially or linearly). 
+- Here, we can traverse all the data items in a single pass.
+- It follows a **Last In First Out** (LIFO) order for doing various operations. 
+- **JS Array** type provides the `push()` & `pop()` methods that allow you to use an array as a stack.
 
-- Stack is a linear data structure (where data elements are arranged sequentially or linearly). Here, we can traverse all the data items in a single pass.
-- It follows a **Last In First Out** (LIFO) order for doing various operations.
 
-## #1 Declaration :
+## # Operations & Implementation : 
 
-```java
-Stack<Integer> st = new Stack<>();  // creating an empty stack
+```javascript
+// Program to implement stack data structure
+
+class Stack{
+  
+    constructor(){
+      this.items = [];
+    }
+
+    push(element){  /* add an element on the top of the stack
+                       if the stack is full, then it is a Stack Overflow Condition */
+      // ( assume the stack can grow dynamically, we are not considering the overflow condition here )
+      this.items.push(element);
+    }
+
+    pop(){  /* removes and returns the top element of the stack.
+               if the stack is empty, then it is a Stack Underflow Condition */
+      if(this.items.length == 0) return "underflow";
+      return this.items.pop();
+    }
+
+    peek(){  // returns top element of the stack, but does not remove it.
+      return this.items[this.items.length - 1];
+    }
+
+    size(){  // returns the number of elements present in the stack.
+      return this.items.length;
+    }
+
+    isEmpty(){  // returns true if stack is empty, else false
+      return this.items.length == 0;
+    }
+
+    clear(){  // clear the stack
+      this.items = [];
+    }
+  
+}
+
+let stack = new Stack();     // creating object for Stack class
+
+// testing isEmpty() and pop() on empty stack
+console.log(stack.isEmpty());   // true
+console.log(stack.pop());       // "underflow"
+
+// adding element to the stack
+stack.push(10);
+stack.push(20);
+stack.push(30);
+console.log(stack.items);     // [10, 20, 30]
+
+// removing element
+console.log(stack.pop());     // 30
+console.log(stack.items);     // [10, 20]
+
+// printing top element of the stack
+console.log(stack.peek());    // 20
+
+// printing stack size
+console.log(stack.size());    // 2
+
+// checking whether stack is empty or not
+console.log(stack.isEmpty());  // false
+
+// clearing the stack
+stack.clear();
+console.log(stack.items);     // []
 ```
-- **Note**: if we hadn't initialized the stack with the `new` keyword, then only a reference of the stack would have been created in RAM's stack and it would have pointed to NULL. 
 
-
-## #2 Operations :
-
-### 1. push(ele)
-- add an element on the top of the stack.
-- if the stack is full, then it is a Stack Overflow Condition.
-
-```java
-st.push(10); 
-st.push(20);
-st.push(30);
-st.push(40);
-System.out.println(st);  // [10, 20, 30, 40]
-```
-
-### 2. peek()
-- returns top element of the stack, but does not remove it.
-- it will give runtime error if there is no element in the stack.
-
-```java 
-st.peek();   // 40
-```
-
-### 3. pop()
-- removes and returns the top element of the stack.
-- if the stack is empty, then it is a Stack Underflow Condition.
-
-```java
-st.pop();  // 40
-st.pop();  // 30
-```
-
-### 4. size()
-- returns the number of elements present in the stack.
-
-```java
-st.size();  // 2
-```
-
-### 5. empty()
-- returns `true` if stack is empty, else `false`
-
-```java
-st.empty();  // false
-```
-
-<br />
-
-- **Note:** All the above Operations are constant operations as the time complexity is O(1) per call.
+## # Application :
+- Reverse a word
+- *Undo* mechanism in text editors
+- Syntax parsing
+- Expression Conversion (infix, prefix, postfix)
